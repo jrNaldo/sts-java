@@ -1,0 +1,11 @@
+# Maven: arquivos gerados pela compilação
+target/
+
+# Arquivos Java compilados
+*.class
+
+# Logs
+*.log
+
+# Configurações pessoais de IDE
+.idea/
